@@ -29,3 +29,10 @@ A simple **Streamlit-based web app** to track your personal finances. You can ad
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
+2. Install dependencies
+
+Make sure you have Python 3.9+ installed. Then run:
+
+pip install -r requirements.txt
+Run the app
+streamlit run expense_tracker.py
